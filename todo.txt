@@ -1,0 +1,17 @@
+
+
+그그 머냐
+list뽑아서 쫙 하는거랑
+입력받아서
+(전화번호부 생각하면 됨)
+
+
+5강 사각형 위젯을 만들거임
+
+원형
+CircleSllider.dart
+Box_Slider.dart
+
+6강 detail scren
+
+> 7강 더보기화면  
